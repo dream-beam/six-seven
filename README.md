@@ -6,4 +6,4 @@ contributors: awojdyla@lbl.gov
 
 http://dreambeam.lbl.gov/
 
-![six-seven](./assets/six-seven.png)
+![six-seven](./assets/gathering.jpg)
