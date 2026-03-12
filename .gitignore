@@ -24,6 +24,7 @@ __pycache__/
 !data/*.mat
 !data/*.npz
 
+data/test/*
 
 # C extensions
 *.so
